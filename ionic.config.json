@@ -1,0 +1,7 @@
+{
+  "name": "CotizadorRojoBetabel",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
